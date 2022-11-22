@@ -22,7 +22,7 @@ const Home = () => {
             </div>
             </div>
         </div>
-
+{/* ........Customer review section....... */}
         <h1 className='text-2xl mt-40 bg-emerald-200 w-1/2 ml-60  text-teal-900 mb-20 font-semibold uppercase'>Customer Review(3)</h1>
 
                 <div className='review-cart'>
